@@ -30,8 +30,15 @@ public class Homework2 {
 			12
 			1
 		 */
-		for (int i = 1 ; i <= 10; i++) {
-			for (int j = 1; j <= 10-i+1; j++) {
+//		for (int i = 1 ; i <= 10; i++) {
+//			for (int j = 1; j <= 10-i+1; j++) {
+//				System.out.print(j + " ");
+//			}
+//			System.out.println("");
+//		}
+		// 更簡潔的寫法:
+		for ( int i = 10; i >= 1; i-- ) {
+			for (int j = 1; j <= i; j++) {
 				System.out.print(j + " ");
 			}
 			System.out.println("");
