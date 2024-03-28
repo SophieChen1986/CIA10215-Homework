@@ -13,7 +13,7 @@ package class_exercise;
  * 
  */
 
-public class Ex08_2_TestNineNine {
+public class A_Ex08_2_TestNineNine {
 	public static void main(String args[]) {
 		
 		// 一:使用for迴圈 + while迴圈

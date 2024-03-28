@@ -10,7 +10,7 @@ package class_exercise;
  * 
  */
 
-public class Ex08_2_Test4Numbers {
+public class A_Ex08_2_Test4Numbers {
 	
 	public static void main(String args[]) {
 		

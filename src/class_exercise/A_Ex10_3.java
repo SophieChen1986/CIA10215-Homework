@@ -13,7 +13,7 @@ package class_exercise;
  * 
 */
 
-public class Ex10_3 {
+public class A_Ex10_3 {
 	
 	public static void main(String args[]) {
 		Student student1 = new Student();

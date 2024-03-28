@@ -14,14 +14,14 @@ package class_exercise;
  * 
  */
 
-public class Ex13_1 {
+public class A_Ex13_1 {
 	
 	// 陣列維度
 	final int DSIZE = 3;
 
 	public static void main(String args[]) {
 		
-		Ex13_1 testRandom = new Ex13_1();
+		A_Ex13_1 testRandom = new A_Ex13_1();
 
 		int[][] x = testRandom.getRandomArray();
 		int[][] y = testRandom.getRandomArray();

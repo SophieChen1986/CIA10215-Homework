@@ -1,7 +1,7 @@
 package class_exercise;
 
 // Java課堂練習 p77
-public class Ex07_1_TestBMI {
+public class A_Ex07_1_TestBMI {
 	public static void main(String args[]) {
 		// 分而為之，拆分步驟
 		
