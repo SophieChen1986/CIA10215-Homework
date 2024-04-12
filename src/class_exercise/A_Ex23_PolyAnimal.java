@@ -25,6 +25,13 @@ public class A_Ex23_PolyAnimal {
 		for (int i = 0; i < animals.length; i++  ) {
 			animals[i].speak();
 		}
+		
+//		// 所有的父類別是Object
+//		Object[] objs = new Object[3];
+//		objs[0] = new Animal(2, 5.0f);
+//		objs[1] = new Elephant(3, 1200f, "大象");
+//		objs[2] = new Elephant(4, 1100f, "大象2號");
+		
 	}
 
 }
