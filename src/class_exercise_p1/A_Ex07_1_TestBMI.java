@@ -1,4 +1,4 @@
-package class_exercise;
+package class_exercise_p1;
 
 // Java課堂練習 p77
 public class A_Ex07_1_TestBMI {

@@ -1,4 +1,4 @@
-package class_exercise_25;
+package class_exercise_p1_25;
 
 // 練習 介面 的實作
 

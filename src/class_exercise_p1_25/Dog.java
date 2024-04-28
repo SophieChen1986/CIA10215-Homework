@@ -1,4 +1,4 @@
-package class_exercise_25;
+package class_exercise_p1_25;
 
 
 public class Dog implements Weightable {

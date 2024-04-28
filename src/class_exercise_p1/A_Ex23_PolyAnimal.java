@@ -1,4 +1,4 @@
-package class_exercise;
+package class_exercise_p1;
 
 /*
  * 課堂練習 模組23  練習    講義p.182

@@ -1,4 +1,4 @@
-package class_exercise;
+package class_exercise_p1;
 
 /*
  * 課堂練習 模組18-2  練習1    講義p.152
@@ -16,13 +16,24 @@ package class_exercise;
  * 
  */
 
-public class A_Ex18_2_AnimalTest {
+public class Animal {
 	
-	public static void main(String args[]) {
-		
-		Animal animal = new Animal(2, 5.0f);
-		
-		animal.speak();
+	private int age;
+	private float weight;
+	
+	public Animal() {
+		// 1. 保留給子類別super呼叫的彈性
+		// 2. 無參數建構子也是Java Bean的規範之一
+		// 3. 給日後搭配框架呼叫使用 (框架幫我們建立物件就是呼叫此建構子)
+	}
+	
+	public Animal( int age, float weight ) {
+		this.age = age;
+		this.weight = weight;
+	}
+	
+	public void speak() {
+		System.out.println( age + "歲 " + weight + "公斤" );
 	}
 	
 }

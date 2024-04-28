@@ -1,4 +1,4 @@
-package class_exercise_25;
+package class_exercise_p1_25;
 
 public class Plane implements Weightable {    // 飛機
 	private String kind;     // 種類

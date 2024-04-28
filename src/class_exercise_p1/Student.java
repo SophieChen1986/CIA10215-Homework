@@ -1,4 +1,4 @@
-package class_exercise;
+package class_exercise_p1;
 
 public class Student {
 	
